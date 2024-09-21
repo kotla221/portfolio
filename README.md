@@ -5,7 +5,7 @@
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://nikhil-portfolio-seven.vercel.app/)
+[Nikhil-Kotla-portfolio](https://nikhil-portfolio-seven.vercel.app/)
 
 ## 📝 Description
 
